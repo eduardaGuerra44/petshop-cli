@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Alberto",
+        "sexo": "m",
+        "castrado": true,
+        "dataDeNascimento": "2014-08-13",
+        "peso": 15,
+        "vacinas": [
+            {
+                "nome": "Antirrábica",
+                "data": "2021-10-04"
+            }
+        ],
+        "servicos": []
+    }
+]
